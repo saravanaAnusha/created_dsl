@@ -1,4 +1,4 @@
-pipelineJob(java.lang.String){
+pipelineJob (python_dsl_job_example){
     agent any
 
     stages {
