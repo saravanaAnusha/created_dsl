@@ -1,4 +1,4 @@
- pipelineJob(java.lang.String)
+pipelineJob(java.lang.String){
     agent any
 
     stages {
