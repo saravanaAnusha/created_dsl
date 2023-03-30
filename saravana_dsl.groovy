@@ -1,4 +1,4 @@
- saravana_dsl.pipeline {
+ pipeline {
     agent any
 
     stages {
